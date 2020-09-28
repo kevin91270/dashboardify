@@ -1,10 +1,20 @@
 .App {
   text-align: center;
+  margin-left: 16em;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+  margin-top: 15%;
+  margin-bottom: 10%;
+
+}
+
+.enterprise{
+  color: #61dafb;
+  font-size: xxx-large;
+  margin-left: 32%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,19 +24,11 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #f9fafd;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: flex-start;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +38,12 @@
     transform: rotate(360deg);
   }
 }
+
+.lego-reporting-view{
+  display: none;
+}
+
+embedding-footer-bg{
+  display: none;
+}
+

@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root{
+  background-color: #f9fafd;
+
+}
+
+.lego-reporting-view{
+  display: none;
+}
+
+embedding-footer-bg{
+  display: none;
+}
+

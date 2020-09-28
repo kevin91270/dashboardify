@@ -1,0 +1,9 @@
+iframe{
+    width: 1500px;;
+    height: 900px;
+    box-shadow: rgb(181, 181, 181) 1px 1px 3px 2px;
+}
+
+.titlegraph{
+    color: #6c757d;
+}

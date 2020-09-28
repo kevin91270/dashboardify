@@ -1,0 +1,55 @@
+
+
+.ui.menu{
+    border-radius: 0;
+    margin: 0rem 0;
+}
+
+#root{
+    height: 100%;
+}
+
+.ui.vertical.menu {
+    width: 22rem;
+    background: #37404a;
+    box-shadow: rgb(181, 181, 181) 1px 1px 3px 3px;
+    display: flex;
+}
+
+.navfull{
+    background-color: #f9fafd;
+    /*background-image: url('../eolienne.jpg');
+    background-size: cover;*/
+}
+
+.graph{
+    margin-left: 19%;
+    margin-top: -50%;
+}
+
+.header{
+    color: white;
+    font-size: 1.3em !important;
+    font-family: Nunito,sans-serif;
+}
+.item{
+    font-size: 1.15em;
+    
+}
+
+.ui.vertical.menu .menu .item{
+    color: #8391A2;
+}
+
+.homebutton{
+    text-align: center;
+    margin-top: 95%;
+}
+
+.ui.menu:first-child{
+    margin-bottom: 0;
+}
+
+*, :after, :before{
+    box-sizing: content-box;
+}

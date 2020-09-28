@@ -1,0 +1,51 @@
+h1{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 27px;
+    text-align: left;
+    color: #6c757d;
+}
+
+.bgimg{
+    background-image: url('../eolienne.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+}
+
+body, html {
+    height: 100%
+  }
+
+.graph2, .graph3{
+    display: inline-block !important;
+    
+}
+
+.graph2, .graph3, .graph_bas{
+    box-shadow: rgb(181, 181, 181) -0.5px -0.5px 3px 3px;
+}
+
+.graph2{
+    width: 905px;
+}
+
+.graph3{
+    margin-left: 2%;
+}
+
+.graph_bas{
+    margin-top: 10px;
+    width: 1473px;
+    height: 482px;
+}
+
+.titlefirstpart, .title2firstpart{
+    display: inline-block;
+}
+
+.title2firstpart{
+    color: #61dafb;
+    margin-left: 66%;
+    font-size: 17px;
+}
